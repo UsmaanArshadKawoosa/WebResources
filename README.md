@@ -1,10 +1,10 @@
-# WebAtlas
+# WebResources
 
 > The open directory for discovering resources to design and build modern websites.
 
-WebAtlas is a community-maintained, curated directory of high-quality resources for designing and building modern websites — from UI components and animations to design inspiration, typography, colors, and beyond.
+WebResources is a community-maintained, curated directory of high-quality resources for designing and building modern websites — from UI components and animations to design inspiration, typography, colors, and beyond.
 
-## What is WebAtlas?
+## What is WebResources?
 
 WebAtlas is a curated collection of resources for designers and frontend developers. Every entry is categorized, tagged, and structured so you can quickly find what you need. The project is open-source and community-driven.
 
@@ -36,7 +36,7 @@ Browse the categories below to discover curated resources for designing and buil
 
 ## Philosophy
 
-WebAtlas aims to be **curated, useful, and community-maintained**:
+WebResources aims to be **curated, useful, and community-maintained**:
 
 - **Curated** — Every resource is reviewed for quality. No link dumps.
 - **Useful** — Resources must provide genuine value to designers or developers.
