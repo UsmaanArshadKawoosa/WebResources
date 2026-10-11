@@ -1457,5 +1457,50 @@
         "description": "Curated gallery of interactive Three.js and WebGL website experiences.",
         "type": "Gallery",
         "free": true
+    },
+    {
+        "name": "Componentry",
+        "url": "https://componentry.dev/",
+        "category": "UI Components",
+        "subcategory": "Component Libraries",
+        "tags": [
+            "React",
+            "Components",
+            "Animation",
+            "shadcn",
+            "Open Source",
+            "WebGL",
+            "Interactive"
+        ],
+        "description": "Animated React components with editable source code. Install via shadcn CLI or your AI editor with MCP. Includes hero backgrounds, visual effects, text animations, and interactive components.",
+        "type": "Library",
+        "open_source": true,
+        "free": true,
+        "github": "https://github.com/harshjdhv/componentry"
+    },
+    {
+        "name": "Arc UI",
+        "url": "https://uiarc.dev/",
+        "category": "UI Components",
+        "subcategory": "Animated UI",
+        "tags": [
+            "React",
+            "Animation",
+            "Motion",
+            "shadcn",
+            "Components",
+            "Blocks",
+            "Next.js",
+            "TypeScript",
+            "AI"
+        ],
+        "description": "157 animated React components and 91 blocks for shadcn and Next.js with live interactive examples. Designed to be buildable by AI agents with llms.txt index and MCP server support.",
+        "type": "Library",
+        "free": true,
+        "technology": [
+            "React",
+            "TypeScript",
+            "Next.js"
+        ]
     }
 ]

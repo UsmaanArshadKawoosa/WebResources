@@ -184,3 +184,23 @@ Reusable UI components and component libraries for building modern interfaces.
 **Type:** Tool
 
 [Visit](https://builder.atheros.ai/)
+
+### Componentry
+
+> Animated React components with editable source code. Install via shadcn CLI or your AI editor with MCP. Includes hero backgrounds, visual effects, text animations, and interactive components.
+
+**Tags:** React · Components · Animation · shadcn · Open Source · WebGL · Interactive
+
+**Type:** Library
+
+[Visit](https://componentry.dev/) · [GitHub](https://github.com/harshjdhv/componentry)
+
+### Arc UI
+
+> 157 animated React components and 91 blocks for shadcn and Next.js with live interactive examples. Designed to be buildable by AI agents with llms.txt index and MCP server support.
+
+**Tags:** React · Animation · Motion · shadcn · Components · Blocks · Next.js · TypeScript · AI
+
+**Type:** Library
+
+[Visit](https://uiarc.dev/)
