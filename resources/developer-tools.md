@@ -13,3 +13,15 @@ Tools that help developers implement designs and ship faster.
 **Type:** Tool
 
 [Visit](https://www.fffuel.co/)
+
+---
+
+### agent-qa
+
+> Open source natural-language QA for web, Android and iOS with memidex persistent memory, reviewable self-improvement and run evidence. FSL-1.1-ALv2; model-provider and infrastructure costs are separate.
+
+**Tags:** Tool · Testing · AI
+
+**Type:** Tool
+
+[Visit](https://vostride.com)

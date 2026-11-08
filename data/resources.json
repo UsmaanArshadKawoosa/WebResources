@@ -1502,5 +1502,23 @@
             "TypeScript",
             "Next.js"
         ]
+    },
+    {
+        "name": "agent-qa",
+        "url": "https://vostride.com",
+        "category": "Developer Tools",
+        "subcategory": "Browser Tools",
+        "tags": [
+            "Tool",
+            "Testing",
+            "AI"
+        ],
+        "description": "Open source natural-language QA for web, Android and iOS with memidex persistent memory, reviewable self-improvement and run evidence. FSL-1.1-ALv2; model-provider and infrastructure costs are separate.",
+        "type": "Tool",
+        "technology": [
+            "TypeScript"
+        ],
+        "github": "https://github.com/vostride/agent-qa",
+        "license": "FSL-1.1-ALv2"
     }
 ]
